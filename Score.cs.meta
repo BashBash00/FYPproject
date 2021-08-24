@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50cff75514c2d604cbe2d830b4bdc01d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreDisplay: {fileID: 5920633456375180489, guid: 7f3491ca3933a5842ab135d9b13839ee,
+      type: 3}
+  - GradeText: {fileID: 2084576104681308902, guid: 8500d634e24396c4a86c323787fa165b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
